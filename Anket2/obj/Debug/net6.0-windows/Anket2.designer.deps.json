@@ -1,0 +1,21 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {}
+    }
+  },
+  "libraries": {
+    "Microsoft.VisualStudio.VsixColorCompiler/17.0.31709.430": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-KvWu1c+84BycFK+76LiX/plgtAXQDWq4wjkzqkmTArGwU/pn4BX2XHMQ+eeuNwy2jt8sU9FhG5zpk4yOKDOL8A==",
+      "path": "microsoft.visualstudio.vsixcolorcompiler/17.0.31709.430",
+      "hashPath": "microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+    }
+  }
+}

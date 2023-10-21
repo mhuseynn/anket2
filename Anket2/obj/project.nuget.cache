@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zgGQ8c3NnGH6T0TGX3FS9kZMilNsUtAbxKLnU7Ig1sZwh3wQEA1ExTbKVflovGdJShtIh0Wqtv6XXp0dOR7JJQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Huseyn\\source\\repos\\Anket2\\Anket2\\Anket2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Huseyn\\.nuget\\packages\\microsoft.visualstudio.vsixcolorcompiler\\17.0.31709.430\\microsoft.visualstudio.vsixcolorcompiler.17.0.31709.430.nupkg.sha512"
+  ],
+  "logs": []
+}
